@@ -15,7 +15,7 @@
 
  *   amount of tips that is being distributed. Then the program calculates and displays the amount of
 
- *  tips each barista is entitled to.
+ *  tips each barista is entitled to. THIS PROGRAM IS IN NO WAY AFFILIATED WITH STARBUCKS!!! THIS WAS FOR PERSONAL USE!!!!! KEEP IN MIND!!!
 
  *
 
